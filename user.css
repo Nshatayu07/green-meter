@@ -31,31 +31,41 @@
 
 .heading {
     font-size: 5rem;
-    height: 7rem;
+    height: 6rem;
 }
 .req{
-    height: 2rem;
+    height: 1.5rem;
     font-size: 1.5rem;
     padding: 1rem;
+    font-style: italic;
 }
 .info{
-    padding: 0.5rem;
+    padding: 1rem;
 }
 .btn{
         background: cornflowerblue;
-        -webkit-border-radius: 22;
-        -moz-border-radius: 22;
         border-radius: 22px;
         font-family: Arial;
         color: #ffffff;
-        font-size: 28px;
-        padding: 8px 20px 8px 20px;
+        font-size: 25px;
+        padding: 12px 15px 12px 15px;
         text-decoration: none;
+        width: 170px;
       }
       
       .btn:hover {
         background: rgb(119, 160, 238);
         text-decoration: none;
 }
+.obj{
+    font-weight: bold;
+    font-size: 1.2rem;
+    /* font-family: serif; */
+}
+.obj2{
+    height: 1.5rem;
+    border-radius: 10px;
+}
+
 
 
