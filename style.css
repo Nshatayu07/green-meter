@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    text-align: center;
+    background-color:cornsilk;
+    font-family: sans-serif;
+}
+
+.navbar{
+    background-color:cornflowerblue;
+    color: black;
+    list-style: none;
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    background-color: cornflowerblue;
+}
+.navbar ul li{
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.5rem;
+    list-style: none;
+    background-color: cornflowerblue;
+
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+    background-color: cornflowerblue;
+
+}
+
+.container{
+    text-align: center;
+    font-size: 2rem;
+
+}
+
+.choice{
+    width: 12rem;
+    height: 6rem;
+    font-size: 2rem;
+    border-radius: 1.5rem;
+    margin: 1rem;
+}
+.choice a{
+    color: black;
+    text-decoration: none;
+}
+
+

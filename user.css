@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    background-color:cornsilk;
+    text-align: center;
+}
+
+.navbar{
+    background-color: bisque;
+    color: black;
+    list-style: none;
+}
+
+.navbar ul{
+    display: flex;
+    background-color: cornflowerblue;
+    list-style: none;
+}
+.navbar ul li{
+    margin: 10px;
+    padding: 10px;
+    background-color: cornflowerblue;
+    font-size: 1.5rem;
+    list-style: none;
+}
+.navbar ul li a{
+    background-color: cornflowerblue;
+    text-decoration: none;
+    color: black;
+}
